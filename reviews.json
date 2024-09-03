@@ -1,0 +1,477 @@
+{"reviews":[
+    {
+        "Professor": "Dr. John Smith",
+        "subject": "Computer Science",
+        "stars": 5,
+        "reviews": "Dr. Smith is an amazing professor! His lectures are clear and engaging."
+    },
+    {
+        "Professor": "Dr. Emily Johnson",
+        "subject": "Mathematics",
+        "stars": 4,
+        "reviews": "Great professor, but her exams are quite challenging."
+    },
+    {
+        "Professor": "Dr. Michael Brown",
+        "subject": "Physics",
+        "stars": 3,
+        "reviews": "His lectures are a bit dry, but the content is solid."
+    },
+    {
+        "Professor": "Dr. Sarah Davis",
+        "subject": "Chemistry",
+        "stars": 2,
+        "reviews": "The course is difficult, and the professor is not very approachable."
+    },
+    {
+        "Professor": "Dr. James Wilson",
+        "subject": "History",
+        "stars": 5,
+        "reviews": "Dr. Wilson is extremely knowledgeable and passionate about history!"
+    },
+    {
+        "Professor": "Dr. Laura Martinez",
+        "subject": "Biology",
+        "stars": 1,
+        "reviews": "Very difficult to follow her lectures, and the exams are unfair."
+    },
+    {
+        "Professor": "Dr. Robert Miller",
+        "subject": "Economics",
+        "stars": 4,
+        "reviews": "Interesting course, but sometimes the material is hard to understand."
+    },
+    {
+        "Professor": "Dr. Jessica Garcia",
+        "subject": "Philosophy",
+        "stars": 5,
+        "reviews": "Absolutely brilliant! Her insights into philosophical concepts are invaluable."
+    },
+    {
+        "Professor": "Dr. William Rodriguez",
+        "subject": "English Literature",
+        "stars": 3,
+        "reviews": "Decent professor, but the reading assignments are overwhelming."
+    },
+    {
+        "Professor": "Dr. Linda Martinez",
+        "subject": "Psychology",
+        "stars": 4,
+        "reviews": "Dr. Martinez is very supportive and helpful, but the coursework is intense."
+    },
+    {
+        "Professor": "Dr. Charles Clark",
+        "subject": "Sociology",
+        "stars": 5,
+        "reviews": "One of the best professors I've had! Highly recommend his class."
+    },
+    {
+        "Professor": "Dr. Barbara Lewis",
+        "subject": "Anthropology",
+        "stars": 3,
+        "reviews": "Interesting lectures, but the exams are very tough."
+    },
+    {
+        "Professor": "Dr. Christopher Walker",
+        "subject": "Political Science",
+        "stars": 4,
+        "reviews": "Very knowledgeable, but sometimes hard to follow."
+    },
+    {
+        "Professor": "Dr. Daniel Hall",
+        "subject": "Statistics",
+        "stars": 2,
+        "reviews": "The course is very difficult, and the professor doesn't explain things clearly."
+    },
+    {
+        "Professor": "Dr. Elizabeth Allen",
+        "subject": "Art History",
+        "stars": 5,
+        "reviews": "Amazing professor! Her passion for art is contagious."
+    },
+    {
+        "Professor": "Dr. Patricia Young",
+        "subject": "Philosophy",
+        "stars": 3,
+        "reviews": "Good professor, but the readings are very dense."
+    },
+    {
+        "Professor": "Dr. David Hernandez",
+        "subject": "Geography",
+        "stars": 4,
+        "reviews": "Engaging lectures, but the workload is heavy."
+    },
+    {
+        "Professor": "Dr. Karen King",
+        "subject": "Chemistry",
+        "stars": 2,
+        "reviews": "Very difficult course, and the professor isn't very helpful."
+    },
+    {
+        "Professor": "Dr. Richard Scott",
+        "subject": "Physics",
+        "stars": 5,
+        "reviews": "Dr. Scott is brilliant! His explanations are very clear."
+    },
+    {
+        "Professor": "Dr. Susan Green",
+        "subject": "Biology",
+        "stars": 4,
+        "reviews": "Good professor, but the exams are tough."
+    },
+    {
+        "Professor": "Dr. Nancy Adams",
+        "subject": "History",
+        "stars": 3,
+        "reviews": "Interesting lectures, but the assignments are overwhelming."
+    },
+    {
+        "Professor": "Dr. Paul Baker",
+        "subject": "Mathematics",
+        "stars": 5,
+        "reviews": "Dr. Baker is an excellent professor! Highly recommend his class."
+    },
+    {
+        "Professor": "Dr. Jennifer Campbell",
+        "subject": "Computer Science",
+        "stars": 4,
+        "reviews": "Great professor, but the coding assignments are challenging."
+    },
+    {
+        "Professor": "Dr. Mark Lee",
+        "subject": "Economics",
+        "stars": 3,
+        "reviews": "Decent professor, but the material is hard to grasp."
+    },
+    {
+        "Professor": "Dr. Lisa Turner",
+        "subject": "Political Science",
+        "stars": 5,
+        "reviews": "Dr. Turner is amazing! Her lectures are always engaging."
+    },
+    {
+        "Professor": "Dr. Brian Parker",
+        "subject": "Sociology",
+        "stars": 4,
+        "reviews": "Very knowledgeable professor, but the exams are tough."
+    },
+    {
+        "Professor": "Dr. Kevin Edwards",
+        "subject": "Psychology",
+        "stars": 3,
+        "reviews": "Good professor, but the course material is difficult."
+    },
+    {
+        "Professor": "Dr. Mary Collins",
+        "subject": "English Literature",
+        "stars": 4,
+        "reviews": "Interesting lectures, but a lot of reading assignments."
+    },
+    {
+        "Professor": "Dr. Joshua Stewart",
+        "subject": "Art History",
+        "stars": 5,
+        "reviews": "Dr. Stewart is passionate about art and makes the class enjoyable."
+    },
+    {
+        "Professor": "Dr. Michelle Peterson",
+        "subject": "Anthropology",
+        "stars": 3,
+        "reviews": "Decent professor, but the coursework is very demanding."
+    },
+    {
+        "Professor": "Dr. Eric Richardson",
+        "subject": "Geography",
+        "stars": 4,
+        "reviews": "Very knowledgeable, but the class can be overwhelming at times."
+    },
+    {
+        "Professor": "Dr. Angela Thomas",
+        "subject": "Biology",
+        "stars": 5,
+        "reviews": "Dr. Thomas is an amazing professor! Highly recommend her class."
+    },
+    {
+        "Professor": "Dr. Edward White",
+        "subject": "Mathematics",
+        "stars": 2,
+        "reviews": "The course is very challenging, and the professor isn't very supportive."
+    },
+    {
+        "Professor": "Dr. Steven Harris",
+        "subject": "Computer Science",
+        "stars": 4,
+        "reviews": "Great professor, but the projects are very time-consuming."
+    },
+    {
+        "Professor": "Dr. Deborah Clark",
+        "subject": "Physics",
+        "stars": 3,
+        "reviews": "Good professor, but the lectures can be a bit dry."
+    },
+    {
+        "Professor": "Dr. Gary Rodriguez",
+        "subject": "Chemistry",
+        "stars": 4,
+        "reviews": "Engaging lectures, but the exams are tough."
+    },
+    {
+        "Professor": "Dr. Cynthia Lewis",
+        "subject": "History",
+        "stars": 5,
+        "reviews": "Dr. Lewis is very knowledgeable and passionate about history."
+    },
+    {
+        "Professor": "Dr. Raymond Martinez",
+        "subject": "Economics",
+        "stars": 3,
+        "reviews": "Good professor, but the material is difficult to grasp."
+    },
+    {
+        "Professor": "Dr. Dorothy King",
+        "subject": "Philosophy",
+        "stars": 4,
+        "reviews": "Interesting course, but the readings are very dense."
+    },
+    {
+        "Professor": "Dr. Jason Hall",
+        "subject": "Sociology",
+        "stars": 5,
+        "reviews": "Dr. Hall is an excellent professor! Highly recommend his class."
+    },
+    {
+        "Professor": "Dr. Amanda Scott",
+        "subject": "Psychology",
+        "stars": 3,
+        "reviews": "Good professor, but the exams are very challenging."
+    },
+    {
+        "Professor": "Dr. Thomas Walker",
+        "subject": "English Literature",
+        "stars": 4,
+        "reviews": "Great professor, but the reading assignments are overwhelming."
+    },
+    {
+        "Professor": "Dr. Katherine Allen",
+        "subject": "Art History",
+        "stars": 5,
+        "reviews": "Dr. Allen is passionate about art and makes the class very enjoyable."
+    },
+    {
+        "Professor": "Dr. Frank Harris",
+        "subject": "Anthropology",
+        "stars": 3,
+        "reviews": "Decent professor, but the coursework is very demanding."
+    },
+    {
+        "Professor": "Dr. Scott Mitchell",
+        "subject": "Geography",
+        "stars": 4,
+        "reviews": "Very knowledgeable professor, but the class can be overwhelming."
+    },
+    {
+        "Professor": "Dr. Elizabeth Edwards",
+        "subject": "Biology",
+        "stars": 5,
+        "reviews": "Dr. Edwards is an amazing professor! Highly recommend her class."
+    },
+    {
+        "Professor": "Dr. Christopher Turner",
+        "subject": "Mathematics",
+        "stars": 2,
+        "reviews": "The course is very challenging, and the professor isn't very supportive."
+    },
+    {
+        "Professor": "Dr. Rachel Walker",
+        "subject": "Computer Science",
+        "stars": 4,
+        "reviews": "Great professor, but the projects are very time-consuming."
+    },
+    {
+        "Professor": "Dr. Anthony Harris",
+        "subject": "Physics",
+        "stars": 3,
+        "reviews": "Good professor, but the lectures can be a bit dry."
+    },
+    {
+        "Professor": "Dr. Lauren Young",
+        "subject": "Chemistry",
+        "stars": 4,
+        "reviews": "Engaging lectures, but the exams are tough."
+    },
+    {
+        "Professor": "Dr. Jack Martinez",
+        "subject": "History",
+        "stars": 5,
+        "reviews": "Dr. Martinez is very knowledgeable and passionate about history."
+    },
+    {
+        "Professor": "Dr. Brandon King",
+        "subject": "Economics",
+        "stars": 3,
+        "reviews": "Good professor, but the material is difficult to grasp."
+    },
+    {
+        "Professor": "Dr. Rebecca Allen",
+        "subject": "Philosophy",
+        "stars": 4,
+        "reviews": "Interesting course, but the readings are very dense."
+    },
+    {
+        "Professor": "Dr. Matthew Lewis",
+        "subject": "Sociology",
+        "stars": 5,
+        "reviews": "Dr. Lewis is an excellent professor! Highly recommend his class."
+    },
+    {
+        "Professor": "Dr. Teresa Brown",
+        "subject": "Psychology",
+        "stars": 3,
+        "reviews": "Good professor, but the exams are very challenging."
+    },
+    {
+        "Professor": "Dr. Andrew Clark",
+        "subject": "English Literature",
+        "stars": 4,
+        "reviews": "Great professor, but the reading assignments are overwhelming."
+    },
+    {
+        "Professor": "Dr. Nicole Johnson",
+        "subject": "Art History",
+        "stars": 5,
+        "reviews": "Dr. Johnson is passionate about art and makes the class very enjoyable."
+    },
+    {
+        "Professor": "Dr. Patricia Walker",
+        "subject": "Anthropology",
+        "stars": 3,
+        "reviews": "Decent professor, but the coursework is very demanding."
+    },
+    {
+        "Professor": "Dr. Jeffrey Scott",
+        "subject": "Geography",
+        "stars": 4,
+        "reviews": "Very knowledgeable professor, but the class can be overwhelming."
+    },
+    {
+        "Professor": "Dr. Gregory Harris",
+        "subject": "Biology",
+        "stars": 5,
+        "reviews": "Dr. Harris is an amazing professor! Highly recommend his class."
+    },
+    {
+        "Professor": "Dr. Margaret Mitchell",
+        "subject": "Mathematics",
+        "stars": 2,
+        "reviews": "The course is very challenging, and the professor isn't very supportive."
+    },
+    {
+        "Professor": "Dr. Benjamin Turner",
+        "subject": "Computer Science",
+        "stars": 4,
+        "reviews": "Great professor, but the projects are very time-consuming."
+    },
+    {
+        "Professor": "Dr. Stephanie Allen",
+        "subject": "Physics",
+        "stars": 3,
+        "reviews": "Good professor, but the lectures can be a bit dry."
+    },
+    {
+        "Professor": "Dr. Christopher Johnson",
+        "subject": "Chemistry",
+        "stars": 4,
+        "reviews": "Engaging lectures, but the exams are tough."
+    },
+    {
+        "Professor": "Dr. Ronald King",
+        "subject": "History",
+        "stars": 5,
+        "reviews": "Dr. King is very knowledgeable and passionate about history."
+    },
+    {
+        "Professor": "Dr. Sharon Young",
+        "subject": "Economics",
+        "stars": 3,
+        "reviews": "Good professor, but the material is difficult to grasp."
+    },
+    {
+        "Professor": "Dr. Linda Martinez",
+        "subject": "Philosophy",
+        "stars": 4,
+        "reviews": "Interesting course, but the readings are very dense."
+    },
+    {
+        "Professor": "Dr. Nicholas Edwards",
+        "subject": "Sociology",
+        "stars": 5,
+        "reviews": "Dr. Edwards is an excellent professor! Highly recommend his class."
+    },
+    {
+        "Professor": "Dr. Christina Walker",
+        "subject": "Psychology",
+        "stars": 3,
+        "reviews": "Good professor, but the exams are very challenging."
+    },
+    {
+        "Professor": "Dr. Samuel Lewis",
+        "subject": "English Literature",
+        "stars": 4,
+        "reviews": "Great professor, but the reading assignments are overwhelming."
+    },
+    {
+        "Professor": "Dr. Brenda Harris",
+        "subject": "Art History",
+        "stars": 5,
+        "reviews": "Dr. Harris is passionate about art and makes the class very enjoyable."
+    },
+    {
+        "Professor": "Dr. Joshua Miller",
+        "subject": "Anthropology",
+        "stars": 3,
+        "reviews": "Decent professor, but the coursework is very demanding."
+    },
+    {
+        "Professor": "Dr. Amanda King",
+        "subject": "Geography",
+        "stars": 4,
+        "reviews": "Very knowledgeable professor, but the class can be overwhelming."
+    },
+    {
+        "Professor": "Dr. Douglas Scott",
+        "subject": "Biology",
+        "stars": 5,
+        "reviews": "Dr. Scott is an amazing professor! Highly recommend his class."
+    },
+    {
+        "Professor": "Dr. Theresa Clark",
+        "subject": "Mathematics",
+        "stars": 2,
+        "reviews": "The course is very challenging, and the professor isn't very supportive."
+    },
+    {
+        "Professor": "Dr. Daniel Johnson",
+        "subject": "Computer Science",
+        "stars": 4,
+        "reviews": "Great professor, but the projects are very time-consuming."
+    },
+    {
+        "Professor": "Dr. Jennifer Walker",
+        "subject": "Physics",
+        "stars": 3,
+        "reviews": "Good professor, but the lectures can be a bit dry."
+    },
+    {
+        "Professor": "Dr. Ashley Harris",
+        "subject": "Chemistry",
+        "stars": 4,
+        "reviews": "Engaging lectures, but the exams are tough."
+    },
+    {
+        "Professor": "Dr. Michael King",
+        "subject": "History",
+        "stars": 5,
+        "reviews": "Dr. King is very knowledgeable and passionate about history."
+    }
+]
+}
